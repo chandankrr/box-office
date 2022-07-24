@@ -15,8 +15,7 @@
     "react/no-danger": [0],
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
-    "no-console": [0],
-    "arrow-body-style": ["error", "as-needed"]
+    "no-console": [0]
   },
   "parserOptions": {
     "ecmaVersion": 8,
@@ -24,5 +23,5 @@
     "babelOptions": {
       "presets": ["@babel/preset-react"]
     }
-  }
+  },
 }
