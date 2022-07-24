@@ -1,8 +1,9 @@
 import React from 'react'
+import MainPageLayout from '../components/MainPageLayout'
 
 function Starred() {
   return (
-    <div>This is starred</div>
+    <MainPageLayout>This is starred</MainPageLayout>
   )
 }
 

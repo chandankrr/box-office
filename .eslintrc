@@ -23,5 +23,5 @@
     "babelOptions": {
       "presets": ["@babel/preset-react"]
     }
-  },
+  }
 }
